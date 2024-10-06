@@ -1,0 +1,9 @@
+"V1","V2","V3","V4","V5"
+"gender","Modality","female","male",NA
+"","Percentage","66","32"," 2"
+"education_level","Modality","above Bachelor","Bachelor or below",NA
+"","Percentage","47","53"," 0"
+"naturalist_activity","Modality","naturalist","not_naturalist",NA
+"","Percentage","40","57"," 3"
+"biodiv_activity","Modality","biodiv_profession","no_biodiv_profession",NA
+"","Percentage","49","50"," 0"

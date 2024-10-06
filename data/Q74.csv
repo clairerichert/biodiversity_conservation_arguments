@@ -1,0 +1,996 @@
+id_final;Q74;
+id_final;Actuellement, vous êtes :;Q74_CODED
+1;En activité;En activité
+2;En activité;En activité
+3;En activité;En activité
+4;En activité;En activité
+5;En activité;En activité
+6;En activité;En activité
+7;En activité;En activité
+8;En activité;En activité
+9;En activité;En activité
+10;En activité;En activité
+11;En activité;En activité
+12;En activité;En activité
+13;En activité;En activité
+14;En activité;En activité
+15;En activité;En activité
+16;En activité;En activité
+17;En activité;En activité
+18;En activité;En activité
+19;En activité;En activité
+20;En activité;En activité
+21;En activité;En activité
+22;En activité;En activité
+23;En activité;En activité
+24;En activité;En activité
+25;En activité;En activité
+26;En activité;En activité
+27;En activité;En activité
+28;En activité;En activité
+29;Auto entrepreneur;En activité
+30;En activité;En activité
+31;En activité;En activité
+32;En activité;En activité
+33;En activité;En activité
+34;En activité;En activité
+35;En activité;En activité
+36;Etudiant;Etudiant
+37;En activité;En activité
+38;En activité;En activité
+39;En activité;En activité
+40;En activité;En activité
+41;En activité;En activité
+42;En activité;En activité
+43;En activité;En activité
+44;En activité;En activité
+45;En activité;En activité
+46;En activité;En activité
+47;En activité;En activité
+48;En activité;En activité
+49;En activité;En activité
+50;En activité;En activité
+51;En activité;En activité
+52;Etudiant;Etudiant
+53;En activité;En activité
+54;En activité;En activité
+55;En activité;En activité
+56;En activité;En activité
+57;En activité;En activité
+58;En activité;En activité
+59;En activité;En activité
+60;En activité;En activité
+61;En activité;En activité
+62;En activité;En activité
+63;Etudiant;Etudiant
+64;Etudiant;Etudiant
+65;Etudiant;Etudiant
+66;En activité;En activité
+67;En activité;En activité
+68;En activité;En activité
+69;En activité;En activité
+70;En activité;En activité
+71;En activité;En activité
+72;En activité;En activité
+73;En activité;En activité
+74;Etudiant;Etudiant
+75;En activité;En activité
+76;En activité;En activité
+77;En activité;En activité
+78;En activité;En activité
+79;Retraité;Retraité
+80;Etudiant;Etudiant
+81;En activité;En activité
+82;En activité;En activité
+83;En activité;En activité
+84;En activité;En activité
+85;En activité;En activité
+86;En activité;En activité
+87;Etudiant;Etudiant
+88;En activité;En activité
+89;En activité;En activité
+90;En activité;En activité
+91;En activité;En activité
+92;En activité;En activité
+93;En activité;En activité
+94;En activité;En activité
+95;Sans emploi;Sans emploi
+96;En activité;En activité
+97;En activité;En activité
+98;En activité;En activité
+99;En activité;En activité
+100;Etudiant;Etudiant
+101;En activité;En activité
+102;En activité;En activité
+103;En activité;En activité
+104;En activité;En activité
+105;En activité;En activité
+106;En activité;En activité
+107;En activité;En activité
+108;En activité;En activité
+109;En activité;En activité
+110;En activité;En activité
+111;En activité;En activité
+112;En activité;En activité
+113;En activité;En activité
+114;En activité;En activité
+115;En activité;En activité
+116;En activité;En activité
+117;En activité;En activité
+118;Retraité;Retraité
+119;En activité;En activité
+120;En activité;En activité
+121;En activité;En activité
+122;En activité;En activité
+123;Etudiant;Etudiant
+124;En activité;En activité
+125;En activité;En activité
+126;En activité;En activité
+127;En activité;En activité
+128;En activité;En activité
+129;En activité;En activité
+130;En activité;En activité
+131;En activité;En activité
+132;Etudiant;Etudiant
+133;En activité;En activité
+134;En apprentissage ;Etudiant
+135;En activité;En activité
+136;En activité;En activité
+137;En activité;En activité
+138;En activité;En activité
+139;En activité;En activité
+140;Etudiant;Etudiant
+141;Etudiant;Etudiant
+142;En activité;En activité
+143;En activité;En activité
+144;En activité;En activité
+145;En activité;En activité
+146;En activité;En activité
+147;En activité;En activité
+148;En activité;En activité
+149;Etudiant;Etudiant
+150;En activité;En activité
+151;En activité;En activité
+152;Etudiant;Etudiant
+153;En activité;En activité
+154;En activité;En activité
+155;En activité;En activité
+156;En activité;En activité
+157;En activité;En activité
+158;En activité;En activité
+159;En activité;En activité
+160;En activité;En activité
+161;En activité;En activité
+162;Etudiant;Etudiant
+163;En activité;En activité
+164;En activité;En activité
+165;En activité;En activité
+166;En activité;En activité
+167;En activité;En activité
+168;Sans emploi;Sans emploi
+169;En activité;En activité
+170;Retraité;Retraité
+171;En activité;En activité
+172;En activité;En activité
+173;En activité;En activité
+174;En activité;En activité
+175;En activité;En activité
+176;En activité;En activité
+177;En activité;En activité
+178;En activité;En activité
+179;En activité;En activité
+180;En activité;En activité
+181;En activité;En activité
+182;En activité;En activité
+183;En activité;En activité
+184;En activité;En activité
+185;En activité;En activité
+186;En activité;En activité
+187;En activité;En activité
+188;En activité;En activité
+189;En activité;En activité
+190;En activité;En activité
+191;En activité;En activité
+192;En activité;En activité
+193;En activité;En activité
+194;formation pro informatique avec votre collègue olivier billant pour ne pas le nommer :-D;Etudiant
+195;En activité;En activité
+196;Etudiant;Etudiant
+197;Etudiant;Etudiant
+198;Etudiant;Etudiant
+199;En activité;En activité
+200;En activité;En activité
+201;Sans emploi;Sans emploi
+202;Retraité;Retraité
+203;Sans emploi;Sans emploi
+204;En conges parentale ;En activité
+205;En activité;En activité
+206;Etudiant;Etudiant
+207;En activité;En activité
+208;En activité;En activité
+209;Etudiant;Etudiant
+210;Etudiant;Etudiant
+211;En activité;En activité
+212;En activité;En activité
+213;En activité;En activité
+214;En activité;En activité
+215;En activité;En activité
+216;En activité;En activité
+217;Etudiant;Etudiant
+218;Retraité;Retraité
+219;Etudiant;Etudiant
+220;En activité;En activité
+221;En activité;En activité
+222;Alternant ;Etudiant
+223;En activité;En activité
+224;En activité;En activité
+225;En activité;En activité
+226;En activité;En activité
+227;En activité;En activité
+228;En activité;En activité
+229;En activité;En activité
+230;Doctorant;Etudiant
+231;Retraité;Retraité
+232;Etudiant;Etudiant
+233;En activité;En activité
+234;Etudiant;Etudiant
+235;Sans emploi;Sans emploi
+236;En activité;En activité
+237;En activité;En activité
+238;Retraité;Retraité
+239;Etudiant;Etudiant
+240;En activité;En activité
+241;En activité;En activité
+242;En activité;En activité
+243;En activité;En activité
+244;En activité;En activité
+245;En activité;En activité
+246;En activité;En activité
+247;En activité;En activité
+248;En activité;En activité
+249;En activité;En activité
+250;Retraité;Retraité
+251;En activité;En activité
+252;En activité;En activité
+253;Etudiant;Etudiant
+254;En activité;En activité
+255;En activité;En activité
+256;En activité;En activité
+257;Retraité;Retraité
+258;Sans emploi;Sans emploi
+259;Etudiant;Etudiant
+260;Etudiant;Etudiant
+261;Etudiant;Etudiant
+262;Etudiant;Etudiant
+263;Etudiant;Etudiant
+264;Etudiant;Etudiant
+265;Etudiant;Etudiant
+266;Etudiant;Etudiant
+267;Etudiant;Etudiant
+268;Etudiant;Etudiant
+269;Etudiant;Etudiant
+270;Etudiant;Etudiant
+271;Etudiant;Etudiant
+272;Etudiant;Etudiant
+273;Etudiant;Etudiant
+274;Etudiant;Etudiant
+275;En activité;En activité
+276;Sans emploi;Sans emploi
+277;En activité;En activité
+278;En activité;En activité
+279;En activité;En activité
+280;Etudiant;Etudiant
+281;Etudiant;Etudiant
+282;En activité;En activité
+283;Etudiant;Etudiant
+284;Sans emploi;Sans emploi
+285;Sans emploi;Sans emploi
+286;Retraité;Retraité
+287;Etudiant;Etudiant
+288;Etudiant;Etudiant
+289;Etudiant;Etudiant
+290;Etudiant;Etudiant
+291;Etudiant;Etudiant
+292;Etudiant;Etudiant
+293;Etudiant;Etudiant
+294;Sans emploi;Sans emploi
+295;Etudiant;Etudiant
+296;En activité;En activité
+297;Sans emploi;Sans emploi
+298;En activité;En activité
+299;En activité;En activité
+300;En activité;En activité
+301;Etudiant;Etudiant
+302;Etudiant;Etudiant
+303;Etudiant;Etudiant
+304;Alternant;Etudiant
+305;Doctorante;Etudiant
+306;Etudiant;Etudiant
+307;En activité;En activité
+308;Etudiant;Etudiant
+309;Etudiant;Etudiant
+310;Etudiant;Etudiant
+311;Etudiant;Etudiant
+312;Etudiant;Etudiant
+313;Etudiant;Etudiant
+314;Etudiant;Etudiant
+315;Sans emploi;Sans emploi
+316;Etudiant;Etudiant
+317;En activité;En activité
+318;En activité;En activité
+319;Retraité;Retraité
+320;En activité;En activité
+321;En activité;En activité
+322;Etudiant;Etudiant
+323;En activité;En activité
+324;Etudiant;Etudiant
+325;En activité;En activité
+326;En activité;En activité
+327;En activité;En activité
+328;En activité;En activité
+329;En activité;En activité
+330;En activité;En activité
+331;Sans emploi;Sans emploi
+332;Invalide ;Sans emploi
+333;En activité;En activité
+334;En activité;En activité
+335;Etudiant;Etudiant
+336;En activité;En activité
+337;En activité;En activité
+338;En activité;En activité
+339;Retraité;Retraité
+340;En activité;En activité
+341;En activité;En activité
+342;En recherche d'emploi;Sans emploi
+343;Retraité;Retraité
+344;En activité;En activité
+345;Retraité;Retraité
+346;En activité;En activité
+347;Retraité;Retraité
+348;Retraité;Retraité
+349;Sans emploi;Sans emploi
+350;Etudiant;Etudiant
+351;Sans emploi;Sans emploi
+352;Retraité;Retraité
+353;Retraité;Retraité
+354;Etudiant;Etudiant
+355;En activité;En activité
+356;Etudiant;Etudiant
+357;Etudiant;Etudiant
+358;En activité;En activité
+359;Etudiant;Etudiant
+360;Sans emploi;Sans emploi
+361;Etudiant;Etudiant
+362;En activité;En activité
+363;Etudiant;Etudiant
+364;En activité;En activité
+365;En activité;En activité
+366;Etudiant;Etudiant
+367;En activité;En activité
+368;En activité;En activité
+369;En activité;En activité
+370;Etudiant;Etudiant
+371;En activité;En activité
+372;En activité;En activité
+373;En activité;En activité
+374;Sans emploi;Sans emploi
+375;En activité;En activité
+376;En activité;En activité
+377;En activité;En activité
+378;En activité;En activité
+379;En activité;En activité
+380;Retraité;Retraité
+381;En activité;En activité
+382;En activité;En activité
+383;En activité;En activité
+384;En activité;En activité
+385;Retraité;Retraité
+386;En activité;En activité
+387;Sans emploi;Sans emploi
+388;Etudiant;Etudiant
+389;Retraité;Retraité
+390;Sans emploi;Sans emploi
+391;Etudiant;Etudiant
+392;Sans emploi;Sans emploi
+393;En activité;En activité
+394;En activité;En activité
+395;Etudiant;Etudiant
+396;En activité;En activité
+397;Etudiant;Etudiant
+398;En activité;En activité
+399;En service civique;En activité
+400;En activité;En activité
+401;En activité;En activité
+402;Retraité;Retraité
+403;Etudiant;Etudiant
+404;En activité;En activité
+405;Retraité;Retraité
+406;En activité;En activité
+407;Retraité;Retraité
+408;En activité;En activité
+409;En activité;En activité
+410;En activité;En activité
+411;En activité;En activité
+412;En activité;En activité
+413;En activité;En activité
+414;En activité;En activité
+415;Etudiant;Etudiant
+416;En activité;En activité
+417;Etudiant;Etudiant
+418;Etudiant;Etudiant
+419;En activité;En activité
+420;En activité;En activité
+421;En activité;En activité
+422;En activité;En activité
+423;En activité;En activité
+424;En activité;En activité
+425;Retraité;Retraité
+426;Retraité;Retraité
+427;Etudiant;Etudiant
+428;Etudiant;Etudiant
+429;Sans emploi;Sans emploi
+430;En activité;En activité
+431;En activité;En activité
+432;Sans emploi;Sans emploi
+433;Etudiant;Etudiant
+434;En activité;En activité
+435;Sans emploi;Sans emploi
+436;Retraité;Retraité
+437;Retraité;Retraité
+438;En activité;En activité
+439;En activité;En activité
+440;En activité;En activité
+441;En activité;En activité
+442;En activité;En activité
+443;Retraité;Retraité
+444;En activité;En activité
+445;En activité;En activité
+446;En activité;En activité
+447;En activité;En activité
+448;Etudiant (master 2) en alternance, et aspirant à un doctorat en expertise comptable, audit, conseil (DEC);Etudiant
+449;Artiste ;En activité
+450;En activité;En activité
+451;En activité;En activité
+452;Etudiant;Etudiant
+453;En activité;En activité
+454;En activité;En activité
+455;Retraité;Retraité
+456;En activité;En activité
+457;Graphiste;En activité
+458;Etudiant;Etudiant
+459;En activité;En activité
+460;Sans emploi;Sans emploi
+461;Retraité;Retraité
+462;Sans emploi mais pour la question précédente j'ai un diplôme en bac +2, pas bac ou licence;Sans emploi
+463;Sans emploi;Sans emploi
+464;En activité;En activité
+465;En activité;En activité
+466;Retraité;Retraité
+467;Sans emploi;Sans emploi
+468;Etudiant;Etudiant
+469;En activité;En activité
+470;En activité;En activité
+471;En activité;En activité
+472;Etudiant;Etudiant
+473;Etudiant;Etudiant
+474;Etudiant;Etudiant
+475;En activité;En activité
+476;En activité;En activité
+477;En activité;En activité
+478;En activité;En activité
+479;En activité;En activité
+480;En activité;En activité
+481;En activité;En activité
+482;Retraité;Retraité
+483;licenciée - invalidité;Sans emploi
+484;En activité;En activité
+485;Invalidité ;Sans emploi
+486;Etudiant;Etudiant
+487;En activité;En activité
+488;En activité;En activité
+489;Retraité;Retraité
+490;Retraité;Retraité
+491;Etudiant;Etudiant
+492;Etudiant;Etudiant
+493;En activité;En activité
+494;Retraité;Retraité
+495;En activité;En activité
+496;Sans emploi;Sans emploi
+497;En activité;En activité
+498;service civique volontaire;En activité
+499;En activité;En activité
+500;Etudiant;Etudiant
+501;Etudiant;Etudiant
+502;En activité;En activité
+503;En activité;En activité
+504;Etudiant;Etudiant
+505;Etudiant;Etudiant
+506;Retraité;Retraité
+507;En activité;En activité
+508;Etudiant;Etudiant
+509;En activité;En activité
+510;Sans emploi;Sans emploi
+511;En activité;En activité
+512;Bénévolat ;En activité
+513;Etudiant;Etudiant
+514;Retraité;Retraité
+515;En activité;En activité
+516;En activité;En activité
+517;En activité;En activité
+518;Retraité;Retraité
+519;Retraité;Retraité
+520;Sans emploi;Sans emploi
+521;En activité;En activité
+522;Etudiant;Etudiant
+523;En activité;En activité
+524;En activité;En activité
+525;Etudiant;Etudiant
+526;En activité;En activité
+527;Sans emploi;Sans emploi
+528;En activité;En activité
+529;En activité;En activité
+530;En activité;En activité
+531;En reconversion pro;Sans emploi
+532;En activité;En activité
+533;Sans emploi;Sans emploi
+534;Etudiant;Etudiant
+535;En activité;En activité
+536;En activité;En activité
+537;En reconversion;Sans emploi
+538;Sans emploi;Sans emploi
+539;Etudiant;Etudiant
+540;En activité;En activité
+541;En activité;En activité
+542;En activité;En activité
+543;En activité;En activité
+544;En activité;En activité
+545;En activité;En activité
+546;En activité;En activité
+547;En activité;En activité
+548;En activité;En activité
+549;En activité;En activité
+550;Etudiant;Etudiant
+551;En activité;En activité
+552;En activité;En activité
+553;En activité;En activité
+554;Retraité;Retraité
+555;En activité;En activité
+556;Etudiant;Etudiant
+557;En activité;En activité
+558;Retraité;Retraité
+559;En activité;En activité
+560;En activité;En activité
+561;Sans emploi;Sans emploi
+562;En activité;En activité
+563;En activité;En activité
+564;Sans emploi;Sans emploi
+565;Mere au foyer;Sans emploi
+566;Retraité;Retraité
+567;Etudiant;Etudiant
+568;En activité;En activité
+569;En activité;En activité
+570;En activité;En activité
+571;En activité;En activité
+572;En activité;En activité
+573;Au foyer;Sans emploi
+574;En activité;En activité
+575;En activité;En activité
+576;En activité;En activité
+577;En activité;En activité
+578;En activité;En activité
+579;En activité;En activité
+580;En activité;En activité
+581;Retraité;Retraité
+582;En activité;En activité
+583;Retraité;Retraité
+584;Sans emploi;Sans emploi
+585;En activité;En activité
+586;Etudiant;Etudiant
+587;Etudiant;Etudiant
+588;En activité;En activité
+589;En activité;En activité
+590;En activité;En activité
+591;Retraité;Retraité
+592;En activité;En activité
+593;En activité;En activité
+594;En activité;En activité
+595;Retraité;Retraité
+596;Retraité;Retraité
+597;En activité;En activité
+598;En activité;En activité
+599;En activité;En activité
+600;Sans emploi;Sans emploi
+601;Retraité;Retraité
+602;En activité;En activité
+603;En activité;En activité
+604;Etudiant;Etudiant
+605;Sans emploi;Sans emploi
+606;En activité;En activité
+607;Retraité;Retraité
+608;En activité;En activité
+609;Etudiant;Etudiant
+610;Retraité;Retraité
+611;En activité;En activité
+612;En activité;En activité
+613;En activité;En activité
+614;En activité;En activité
+615;En activité;En activité
+616;En activité;En activité
+617;Sans emploi;Sans emploi
+618;En activité;En activité
+619;Etudiant;Etudiant
+620;Elue;En activité
+621;En activité;En activité
+622;En activité;En activité
+623;Retraité;Retraité
+624;;
+625;Etudiant;Etudiant
+626;En activité;En activité
+627;En activité;En activité
+628;Retraité;Retraité
+629;En activité;En activité
+630;En activité;En activité
+631;En activité;En activité
+632;En activité;En activité
+633;En activité;En activité
+634;En activité;En activité
+635;Etudiant;Etudiant
+636;En activité;En activité
+637;En activité;En activité
+638;En activité;En activité
+639;Retraité;Retraité
+640;Retraité;Retraité
+641;Sans emploi;Sans emploi
+642;Etudiant;Etudiant
+643;Etudiant;Etudiant
+644;Retraité;Retraité
+645;En activité;En activité
+646;Retraité;Retraité
+647;En activité;En activité
+648;En activité;En activité
+649;En activité;En activité
+650;Retraité;Retraité
+651;En activité;En activité
+652;En activité;En activité
+653;En activité;En activité
+654;En activité;En activité
+655;Etudiant;Etudiant
+656;En activité;En activité
+657;En activité;En activité
+658;En activité;En activité
+659;Retraité;Retraité
+660;En activité;En activité
+661;Sans emploi;Sans emploi
+662;En activité;En activité
+663;En activité;En activité
+664;En activité;En activité
+665;En activité;En activité
+666;Elus adjointe au maire;En activité
+667;Sans emploi;Sans emploi
+668;En activité;En activité
+669;Retraité;Retraité
+670;En activité;En activité
+671;En activité;En activité
+672;Etudiant;Etudiant
+673;En activité;En activité
+674;En activité;En activité
+675;Etudiant;Etudiant
+676;En activité;En activité
+677;En activité;En activité
+678;En activité;En activité
+679;Sans emploi;Sans emploi
+680;En activité;En activité
+681;En activité;En activité
+682;En activité;En activité
+683;Etudiant;Etudiant
+684;En activité;En activité
+685;Retraité;Retraité
+686;;
+687;En activité;En activité
+688;Retraité;Retraité
+689;En activité;En activité
+690;En activité;En activité
+691;En activité;En activité
+692;En activité;En activité
+693;Mère au foyer ;Sans emploi
+694;En activité;En activité
+695;En activité;En activité
+696;En activité;En activité
+697;En activité;En activité
+698;En activité;En activité
+699;En activité;En activité
+700;En activité;En activité
+701;En activité;En activité
+702;Au placard;En activité
+703;En activité;En activité
+704;Maman au foyer;Sans emploi
+705;En activité;En activité
+706;En activité;En activité
+707;En activité;En activité
+708;En activité;En activité
+709;En activité;En activité
+710;En activité;En activité
+711;En activité;En activité
+712;En activité;En activité
+713;Retraité;Retraité
+714;En activité;En activité
+715;En activité;En activité
+716;En activité;En activité
+717;En activité;En activité
+718;En activité;En activité
+719;En activité;En activité
+720;En activité;En activité
+721;Retraité;Retraité
+722;En activité;En activité
+723;En activité;En activité
+724;En activité;En activité
+725;En activité;En activité
+726;Retraité;Retraité
+727;En activité;En activité
+728;Sans emploi;Sans emploi
+729;En activité;En activité
+730;En activité;En activité
+731;En activité;En activité
+732;Retraité;Retraité
+733;En activité;En activité
+734;En activité;En activité
+735;En activité;En activité
+736;Invalide ;Sans emploi
+737;Etudiant;Etudiant
+738;Etudiant;Etudiant
+739;En activité;En activité
+740;Retraité;Retraité
+741;Retraité;Retraité
+742;En activité;En activité
+743;En activité;En activité
+744;En activité;En activité
+745;Etudiant;Etudiant
+746;Etudiant;Etudiant
+747;En activité;En activité
+748;En activité;En activité
+749;En activité;En activité
+750;En activité;En activité
+751;En activité;En activité
+752;En activité;En activité
+753;En activité;En activité
+754;Retraité;Retraité
+755;Retraité;Retraité
+756;Retraité;Retraité
+757;En activité;En activité
+758;En création d'entreprise;En activité
+759;En activité;En activité
+760;Etudiant;Etudiant
+761;En activité;En activité
+762;En activité;En activité
+763;En activité;En activité
+764;Etudiant;Etudiant
+765;En activité;En activité
+766;En activité;En activité
+767;En activité;En activité
+768;En activité;En activité
+769;En activité;En activité
+770;En activité;En activité
+771;En activité;En activité
+772;En activité;En activité
+773;Retraité;Retraité
+774;En activité;En activité
+775;En activité;En activité
+776;En activité;En activité
+777;Etudiant;Etudiant
+778;Sans emploi;Sans emploi
+779;Sans emploi;Sans emploi
+780;En activité;En activité
+781;Retraité;Retraité
+782;Sans emploi;Sans emploi
+783;En activité;En activité
+784;En activité;En activité
+785;Retraité;Retraité
+786;Retraité;Retraité
+787;En activité;En activité
+788;Sans emploi;Sans emploi
+789;Profession libérale ;En activité
+790;Etudiant;Etudiant
+791;En activité;En activité
+792;En activité;En activité
+793;En activité;En activité
+794;En activité;En activité
+795;Etudiant;Etudiant
+796;En activité;En activité
+797;En activité;En activité
+798;Invalide;Sans emploi
+799;Artiste ;En activité
+800;En activité;En activité
+801;En activité;En activité
+802;En activité;En activité
+803;Youtubeuse jardin;En activité
+804;En activité;En activité
+805;En activité;En activité
+806;Etudiant;Etudiant
+807;Retraité;Retraité
+808;Etudiant;Etudiant
+809;En activité;En activité
+810;En activité;En activité
+811;En activité;En activité
+812;En activité;En activité
+813;En activité;En activité
+814;En activité;En activité
+815;En activité;En activité
+816;En activité;En activité
+817;En activité;En activité
+818;En activité;En activité
+819;En activité;En activité
+820;En activité;En activité
+821;Retraité;Retraité
+822;En activité;En activité
+823;En activité;En activité
+824;En activité;En activité
+825;Retraité;Retraité
+826;En activité;En activité
+827;En activité;En activité
+828;Sans emploi;Sans emploi
+829;Eclairagiste intermittente du spectacle ;En activité
+830;Sans emploi;Sans emploi
+831;Etudiant;Etudiant
+832;Sans emploi;Sans emploi
+833;En activité;En activité
+834;En activité;En activité
+835;En activité;En activité
+836;Etudiant;Etudiant
+837;En activité;En activité
+838;Etudiant;Etudiant
+839;arrêt maladie;En activité
+840;En activité;En activité
+841;Etudiant;Etudiant
+842;En activité;En activité
+843;Retraité;Retraité
+844;En activité;En activité
+845;Etudiant;Etudiant
+846;En activité;En activité
+847;Etudiant;Etudiant
+848;Retraité;Retraité
+849;Etudiant;Etudiant
+850;Etudiant;Etudiant
+851;Sans emploi;Sans emploi
+852;En activité;En activité
+853;En activité;En activité
+854;En activité;En activité
+855;Etudiant;Etudiant
+856;Sans emploi;Sans emploi
+857;Service civique ;En activité
+858;Retraité;Retraité
+859;En activité;En activité
+860;En activité;En activité
+861;Etudiant;Etudiant
+862;Etudiant;Etudiant
+863;Sans emploi;Sans emploi
+864;En activité;En activité
+865;En activité;En activité
+866;Maladie;En activité
+867;En activité;En activité
+868;Retraité;Retraité
+869;En activité;En activité
+870;En activité;En activité
+871;En activité;En activité
+872;En activité;En activité
+873;En activité;En activité
+874;En activité;En activité
+875;En activité;En activité
+876;Retraité;Retraité
+877;En activité;En activité
+878;Retraité;Retraité
+879;En activité;En activité
+880;En activité;En activité
+881;En activité;En activité
+882;En activité;En activité
+883;En activité;En activité
+884;En activité;En activité
+885;Retraité;Retraité
+886;En activité;En activité
+887;Retraité;Retraité
+888;En activité;En activité
+889;En activité;En activité
+890;En activité;En activité
+891;En activité;En activité
+892;En activité;En activité
+893;En activité;En activité
+894;En activité;En activité
+895;En activité;En activité
+896;Retraité;Retraité
+897;En activité;En activité
+898;Retraité;Retraité
+899;En activité;En activité
+900;En activité;En activité
+901;En activité;En activité
+902;En activité;En activité
+903;En activité;En activité
+904;En activité;En activité
+905;En activité;En activité
+906;En activité;En activité
+907;Retraité;Retraité
+908;En activité;En activité
+909;En activité;En activité
+910;En activité;En activité
+911;En activité;En activité
+912;En activité;En activité
+913;En activité;En activité
+914;En activité;En activité
+915;En activité;En activité
+916;Retraité;Retraité
+917;En activité;En activité
+918;En activité;En activité
+919;En activité;En activité
+920;Lycéen;Etudiant
+921;Retraité;Retraité
+922;Etudiant;Etudiant
+923;Retraité;Retraité
+924;En activité;En activité
+925;En activité;En activité
+926;En activité;En activité
+927;En activité;En activité
+928;En activité;En activité
+929;En activité;En activité
+930;En activité;En activité
+931;En activité;En activité
+932;En activité;En activité
+933;Retraité;Retraité
+934;Invalidité depuis 2012;Sans emploi
+935;En activité;En activité
+936;En activité;En activité
+937;En activité;En activité
+938;Retraité;Retraité
+939;En activité;En activité
+940;En activité;En activité
+941;Retraité;Retraité
+942;Etudiant;Etudiant
+943;En activité;En activité
+944;Sans emploi;Sans emploi
+945;En activité;En activité
+946;Etudiant;Etudiant
+947;En activité;En activité
+948;Retraité;Retraité
+949;En activité;En activité
+950;Parent instructeur ;Sans emploi
+951;Retraité;Retraité
+952;En activité;En activité
+953;En activité;En activité
+954;En activité;En activité
+955;En activité;En activité
+956;Retraité;Retraité
+957;En activité;En activité
+958;Etudiant;Etudiant
+959;Retraité;Retraité
+960;En activité;En activité
+961;En activité;En activité
+962;En activité;En activité
+963;Retraité;Retraité
+964;En activité;En activité
+965;Naturaliste indépendant & photographe de nature.;En activité
+966;En activité;En activité
+967;En activité;En activité
+968;Sans emploi;Sans emploi
+969;Retraité;Retraité
+970;En activité;En activité
+971;Etudiant;Etudiant
+972;En activité;En activité
+973;En activité;En activité
+974;En activité;En activité
+975;En activité;En activité
+976;Retraité;Retraité
+977;En activité;En activité
+978;En activité;En activité
+979;En activité;En activité
+980;En activité;En activité
+981;En activité;En activité
+982;Retraité;Retraité
+983;En activité;En activité
+984;En activité;En activité
+985;En activité;En activité
+986;En activité;En activité
+987;Animatrice nature dans une association;En activité
+988;Etudiant;Etudiant
+989;En activité;En activité
+990;Retraité;Retraité
+991;En activité;En activité
+992;En activité;En activité
+993;En activité;En activité
+994;Retraité en activité partielle ;En activité
