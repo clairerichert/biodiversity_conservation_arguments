@@ -131,6 +131,6 @@ plot_sankey <- ggplot(sankey_df, aes(x = x, next_x = next_x, node = node, next_n
   theme(legend.position = "none", axis.text.x = element_text(size = 16)) +
   scale_fill_grey(name = waiver(), start = 0.2, end = 0.8, aesthetics = "fill")
 
-ggarrange(plotlist = list(plot_cat_frequency, plot_sankey), ncol = 1, nrow = 2, labels = list("A.", "B."), label.x = -0.02) +
+ggarrange(plotlist = list(plot_cat_frequency, plot_sankey), ncol = 1, nrow = 2, labels = list("a.", "b."), label.x = -0.02) +
   theme(plot.margin = margin(0, 0, 0, 0.5, "cm"))
 ggsave(file.path("results", "sankey_and_barplot_categories_of_arguments.png"), width = 12, height = 9)
